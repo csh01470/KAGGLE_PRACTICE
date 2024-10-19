@@ -1,0 +1,14 @@
+#File
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+.key
+
+#Directory
+**/css/
+**/key/
+**/Output/
+**/data/
+**/temp/
